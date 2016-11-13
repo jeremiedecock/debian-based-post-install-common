@@ -27,7 +27,8 @@
 
 # IMPORT COMMON FUNCTIONS
 
-. scripts/functions.sh
+RELATIVE_DIR="$(dirname "$0")"
+. "${RELATIVE_DIR}/functions.sh"
 
 # SETUP TIMEZONE ##############################################################
 
