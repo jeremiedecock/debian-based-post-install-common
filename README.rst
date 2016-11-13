@@ -14,6 +14,11 @@ Description
 This repository contains a collection of scripts to automate and make easier
 the Debian post-install tasks.
 
+This is not a standalone repository and it is part of the following projects:
+
+- https://github.com/jeremiedecock/debian-post-install
+- https://github.com/jeremiedecock/raspbian-post-install
+
 Note:
 
     This project is still in beta stage.
